@@ -1,4 +1,4 @@
-import { HomeOutlined } from '@ant-design/icons';
+import { HomeOutlined, EditOutlined } from '@ant-design/icons';
 
 export default [
   {
@@ -7,8 +7,8 @@ export default [
     icon: <HomeOutlined />
   },
   {
-    path: '/main',
-    name: '副页',
-    icon: <HomeOutlined />
+    path: '/editor',
+    name: '编辑器',
+    icon: <EditOutlined />
   },
 ]

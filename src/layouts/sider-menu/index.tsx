@@ -6,7 +6,6 @@ import menu from './menu'
 
 const SiderMenu = (props: any) => {
   const { pathname } = useLocation()
-  console.warn(pathname)
 
   return (
     <div className="sider_wrap">

@@ -14,6 +14,11 @@ export default [
         component: '../pages/home'
       },
       {
+        path: '/editor',
+        title: 'editor',
+        component: '../pages/editor'
+      },
+      {
         component: '../pages/error/404'
       }
     ]
