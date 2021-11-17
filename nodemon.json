@@ -1,6 +1,6 @@
 {
   "events": {
-    "restart": "osascript -e 'display notification \"blued-wap restarted\" with title \"nodemon\"'"
+    "restart": "osascript -e 'display notification \"react-umi restarted\" with title \"nodemon\"'"
   },
   "ext": "ts tsx js json",
   "ignore": [
